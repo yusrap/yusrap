@@ -25,13 +25,9 @@ I'm on a journey through technology, data, and sustainability. I'm here to learn
   - ![Azure Technologies](https://img.shields.io/badge/-Azure_Technologies-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 
 ## 📈 Featured Project:
-- [Real-Time Face Detection](#) - A Python-based project that identifies faces from various sources in real-time.
+- [Real-Time Face Detection](#https://github.com/yusrap/Real-Time-Face-Detector-with-Haar-Cascade) - A Python-based project that identifies faces from various sources in real-time.
 
 Let's connect if you're interested in tech discussions or potential collaborations!
-
-## 📫 Connect With Me:
-- [LinkedIn](https://www.linkedin.com/in/yusrapatel/)
-- [Twitter](https://twitter.com/yusrap02)
 
 ## 😄 Just for Fun:
 - Off-screen, I enjoy episodes of "How I Met Your Mother" and tunes from San Holo.
