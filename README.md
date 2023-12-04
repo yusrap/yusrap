@@ -7,10 +7,22 @@ I'm on a journey through technology, data, and sustainability. I'm here to learn
 - Keen on collaborative projects and freelance opportunities
 
 ## 🛠️ Tech Stack:
-- **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-- **Cloud**: ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
-- **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-- **Learning**: ![Azure Technologies](https://img.shields.io/badge/-Azure_Technologies-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+- **Languages**:
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+  - ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+  - ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+  - ![SQL](https://img.shields.io/badge/-SQL-003366?style=flat&logo=sql&logoColor=white)
+- **Cloud**:
+  - ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+  - ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+- **Tools**:
+  - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+  - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+  - ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- **Operating Systems**:
+  - ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+- **Learning**:
+  - ![Azure Technologies](https://img.shields.io/badge/-Azure_Technologies-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 
 ## 📈 Featured Project:
 - [Real-Time Face Detection](#) - A Python-based project that identifies faces from various sources in real-time.
