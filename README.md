@@ -15,6 +15,7 @@ I'm on a journey through technology, data, and sustainability. I'm here to learn
 
 ## 📈 Recent Project:
 - [Real-Time Face Detection](https://github.com/yusrap/Real-Time-Face-Detector-with-Haar-Cascade) - A Python-based project that identifies faces from various sources in real-time.
+- [Pixel Art Generator](https://github.com/yusrap/100-Days-of-Code/tree/master/Pixel%20Art%20Generator) - An interactive pixel art generator.
 
 Let's connect if you're interested in tech discussions or potential collaborations!
 
